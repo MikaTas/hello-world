@@ -1,2 +1,2 @@
 # hello-world
-hello-world desc...
+The typical hello-world test done.. 
